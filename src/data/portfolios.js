@@ -14,7 +14,7 @@ const portfolios = [
         category: 'React JS',
         image: react1,
         link1: 'https://github.com/NafilaNafi/portfolio',
-        link2: 'https://nafi-codes.netlify.app/portfolios',
+        link2: 'https://nafi-codes.netlify.app/',
         title: 'Responsive Portfolio Website using React JS',
         text: 'Created using different technologies such as React JS, Material UI, React Router, React Hooks and Styled Components..'
     },
