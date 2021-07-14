@@ -1,7 +1,7 @@
-import css1 from '../img/portImages/cv_css.png';
+import css1 from '../img/portImages/cv.png';
 import css2 from '../img/portImages/todo.png';
 import css3 from '../img/portImages/uceasy.jpg';
-import react1 from '../img/portImages/react_styled.png';
+import react1 from '../img/portImages/PORT.png';
 import img1 from '../img/portImages/food.jpg';
 import img2 from '../img/portImages/gym.jpg';
 import img3 from '../img/portImages/maya-3.jpg';
@@ -13,8 +13,8 @@ const portfolios = [
         id: 1,
         category: 'React JS',
         image: react1,
-        link1: 'https://www.google.com',
-        link2: 'https://www.google.com',
+        link1: 'https://github.com/NafilaNafi/portfolio',
+        link2: 'https://nafi-codes.netlify.app/',
         title: 'Responsive Portfolio Website using React JS',
         text: 'Created using different technologies such as React JS, Material UI, React Router, React Hooks and Styled Components..'
     },
