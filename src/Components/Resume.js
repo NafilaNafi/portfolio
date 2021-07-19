@@ -20,8 +20,8 @@ function Resume() {
                 <div className="resume-content ">
                     <ResumeItem 
                         year={'2016 - 2019'} 
-                        title={'BCA (COMPUTER APPLICATIONS)'}
-                        subTitle={'University of Madras'} 
+                        subTitle={'BCA (COMPUTER APPLICATIONS)'}
+                        text={'University of Madras'} 
                     />
                 </div>
                 <div className="small-title">
@@ -30,28 +30,28 @@ function Resume() {
                 <div className="resume-content">
                     <ResumeItem 
                         year={'March 2021 - July 2021'} 
-                        title={'FullStack Developer / Mernstack Bootcamp'}
-                        subTitle={'GUVI GEEK NETWORKS, IITM RESEARCH PARK, CHENNAI, TAMILNADU'}
+                        subTitle={'FullStack Developer / Mernstack Bootcamp'}
+                        text={'GUVI GEEK NETWORKS, IITM RESEARCH PARK, CHENNAI, TAMILNADU'}
                     />
                     <ResumeItem 
                         year={'March 2020 - May 2020'} 
-                        title={'A Complete ReactJs Bootcamp'}
-                        subTitle={'LEARN CODE ONLINE PVT LTD.'}
+                        subTitle={'A Complete ReactJs Bootcamp'}
+                        text={'LEARN CODE ONLINE PVT LTD.'}
                     />
                     <ResumeItem 
                         year={'Sept 2019 - Nov 2019'} 
-                        title={'Frontend Web Developer Bootcamp'}
-                        subTitle={'LEARN CODE ONLINE PVT LTD.'}
+                        subTitle={'Frontend Web Developer Bootcamp'}
+                        text={'LEARN CODE ONLINE PVT LTD.'}
                     />
                     <ResumeItem 
                         year={'April 2019 - Sept 2019'} 
-                        title={'Fullstack Developer Internship'}
-                        subTitle={'SHANJOS TECHNOLOGIES PVT LMTD, COIMBATORE,TAMILNADU.'}
+                        subTitle={'Fullstack Developer Internship'}
+                        text={'SHANJOS TECHNOLOGIES PVT LMTD, COIMBATORE,TAMILNADU.'}
                     />
                     <ResumeItem 
                         year={'May 2018 - Oct 2018'} 
-                        title={'Web Developer Internship'}
-                        subTitle={'ABILE TECHNOLOGIES PVT LMTD, COIMBATORE,TAMILNADU.'}
+                        subTitle={'Web Developer Internship'}
+                        text={'ABILE TECHNOLOGIES PVT LMTD, COIMBATORE,TAMILNADU.'}
                     />
                 </div>
                 <div className="small-title u-small-title-margin">
@@ -60,22 +60,22 @@ function Resume() {
                 <div className="resume-content ">
                     <ResumeItem 
                         year={'24 April 2021 - 25 April 2021'} 
-                        title={'GUINNESS RECORD EVENT'}
+                        subTitle={'GUINNESS RECORD EVENT'}
                         text={'Participation in the Guinness Record Event Conducted By IIT Madras Incubated Startups GUVI And AICTE "event- AI FOR INDIA".'} 
                     />
                     <ResumeItem 
                         year={'2018 - 2018'} 
-                        title={'BRITISH COUNSIL, CHENNAI'}
+                        subTitle={'BRITISH COUNSIL, CHENNAI'}
                         text={'Certified For Communication Skill At The Level Of Language (Conversation Course)'} 
                     />
                     <ResumeItem 
                         year={'2019 - 2020'} 
-                        title={'BACKEND DEVELOPMENT WITH NODEJS & FULLSTACK MERN BOOTCAMP'}
+                        subTitle={'BACKEND DEVELOPMENT WITH NODEJS & FULLSTACK MERN BOOTCAMP'}
                         text={'LEARN CODE ONLINE PVT LTD. '} 
                     />
                     <ResumeItem 
                         year={'2019 - 2020'} 
-                        title={'FRONTEND, BACKEND & MERNSTACK DEVELOPMENT'}
+                        subTitle={'FRONTEND, BACKEND & MERNSTACK DEVELOPMENT'}
                         text={'Professional Devolopment Courses In Udemy MOOC(Online) Platform With Technical Certifications In Front-end, Backend & Mernstack Development To Get Trained And Attain Aquire Skills.'} 
                     />
                 </div>

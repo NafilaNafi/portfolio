@@ -25,4 +25,4 @@ const SmallTitleStyled = styled.div`
     }
 `;
 
-export default SmallTitle
+export default SmallTitle;

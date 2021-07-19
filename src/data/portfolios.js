@@ -1,4 +1,4 @@
-import css1 from '../img/portImages/cv.png';
+import css1 from '../img/portImages/newyork-times.png';
 import css2 from '../img/portImages/todo.png';
 import css3 from '../img/portImages/uceasy.jpg';
 import react1 from '../img/portImages/PORT.png';
@@ -43,7 +43,7 @@ const portfolios = [
         link1: 'https://github.com/NafilaNafi/frontendprojects/tree/master/frontend/project/gymcomingsoon',
         link2: 'https://fitofitgym.netlify.app/',
         title: 'Single page GYM Opening Application',
-        text: 'Static frontend Gym Comming soon webpage using HTML and CSS.'
+        text: 'Static frontend Gym Comming soon webpage.'
     },
     {
         id: 5,
@@ -56,12 +56,12 @@ const portfolios = [
     },
     {
         id: 6,
-        category: 'CSS',
+        category: 'Javascript',
         image: css1,
-        link1: 'https://github.com/NafilaNafi/Resume-design',
-        link2: 'https://resume-using-html-css.netlify.app/',
-        title: 'Responsive Resume',
-        text: 'Created with only HTML and CSS.'
+        link1: 'https://github.com/NafilaNafi/NewYork-Times-Api',
+        link2: 'https://newyork-times-api-integration.netlify.app/',
+        title: 'TOP STORIES - Newyork Times API',
+        text: 'front-end Application that will display all the Top Updated news using API Integration.'
     },
     {
         id: 7,
