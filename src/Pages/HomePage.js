@@ -6,28 +6,42 @@ import Particle from '../Components/Particle';
 
 function HomePage() {
     return (
-        <HomePageStyled>
-            <div className="particle-con">
-                <Particle />
-            </div>
-            <div className="typography">
-                <h1>Hello, I'm <span>Nafila.M</span></h1>
-                <h2><b>A Full Stack Developer</b></h2>
-                <p>
-                    HTML | CSS | Javascript | Bootstrap | ReactJS | NodeJS | ExpressJS | MongoDB
-                </p>
-                <div className="icons">
-                    <a href="https://github.com/NafilaNafi" className="icon i-github">
-                        <GithubIcon />
-                    </a>
-                    <a href="https://www.linkedin.com/in/nafia-m/" className="icon i-linkedin">
-                        <LinkedInIcon />
-                    </a>
-
-                </div>
-            </div>
-        </HomePageStyled>
-    )
+      <HomePageStyled>
+        <div className="particle-con">
+          <Particle />
+        </div>
+        <div className="typography">
+          <h1>
+            Hello, I'm <span>Nafila.M</span>
+          </h1>
+          <h2>
+            <b>A Full Stack Developer</b>
+          </h2>
+          <p>
+            HTML | CSS | Javascript | Bootstrap | ReactJS | NodeJS | ExpressJS |
+            MongoDB
+          </p>
+          <div className="icons">
+            <a
+              href="https://github.com/NafilaNafi"
+              target="_blank"
+              rel="noreference"
+              className="icon i-github"
+            >
+              <GithubIcon />
+            </a>
+            <a
+              href="https://www.linkedin.com/in/nafia-m/"
+              target="_blank"
+              rel="noreference"
+              className="icon i-linkedin"
+            >
+              <LinkedInIcon />
+            </a>
+          </div>
+        </div>
+      </HomePageStyled>
+    );
 }
 
 const HomePageStyled = styled.header`

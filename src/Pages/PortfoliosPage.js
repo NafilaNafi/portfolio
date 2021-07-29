@@ -21,6 +21,7 @@ function PortfoliosPage() {
         const filteredData = portfolios.filter(item => item.category === button);
         setMenuItems(filteredData);
     }
+    
     return (
         <MainLayout>
             <Title title={'Portfolios'} span={'portfolios'} />
