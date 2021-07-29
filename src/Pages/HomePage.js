@@ -15,12 +15,10 @@ function HomePage() {
             Hello, I'm <span>Nafila.M</span>
           </h1>
           <h2>
-            <b>A Full Stack Developer</b>
-          </h2>
-          <p>
-            HTML | CSS | Javascript | Bootstrap | ReactJS | NodeJS | ExpressJS |
-            MongoDB
-          </p>
+            <b>
+              A FULL STACK / MERNSTACK DEVELOPER 
+            </b>
+          </h2> 
           <div className="icons">
             <a
               href="https://github.com/NafilaNafi"
