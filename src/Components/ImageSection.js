@@ -14,7 +14,7 @@ function ImageSection() {
                 <p className="paragraph">
                     Full-Stack developer who thinks caffeine is good for health cause I need coffee while coding (Not everytime 😜). Tries to learn something new every day. Designing & Mernstack Developer. A passionate programmer who never regrets coding and love to add new lines of code every single day.
                 </p>
-                <a href="https://drive.google.com/file/d/1N0xtonVlIFenadezOmhpovqzVTS8LDmi/view" target="_blank" rel="noreferrer"><PrimaryButton title={'Download Cv'} /></a>
+                <a href="https://drive.google.com/file/d/1gEp55-oQ4n0ACzyrb3aOvLlJHaSaGtCB/view" target="_blank" rel="noreferrer"><PrimaryButton title={'Download Cv'} /></a>
             </div>
         </ImageSectionStyled>
     )
