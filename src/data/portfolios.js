@@ -7,6 +7,8 @@ import img2 from '../img/portImages/movielist.jpg';
 import img3 from '../img/portImages/maya-3.jpg';
 import img4 from '../img/portImages/traveller.png';
 import img5 from "../img/portImages/verify phone.jpg";
+import img6 from "../img/portImages/portfolio.png";
+
 
 const portfolios = [
   {
@@ -38,6 +40,15 @@ const portfolios = [
   },
   {
     id: 4,
+    category: "Javascript",
+    image: img6,
+    link1: "https://github.com/NafilaNafi/portfolio",
+    link2: "https://nafi-codes.netlify.app/",
+    title: "Fullstack Portfolio",
+    text: "Personal Portfolio.",
+  },
+  {
+    id: 5,
     category: "React JS",
     image: img1,
     link1: "https://github.com/NafilaNafi/Adventure",
@@ -46,7 +57,7 @@ const portfolios = [
     text: "Find your amazing trip destinations using Adventure App",
   },
   {
-    id: 5,
+    id: 6,
     category: "Javascript",
     image: img5,
     link1: "https://github.com/NafilaNafi/phone-verification",
@@ -55,7 +66,7 @@ const portfolios = [
     text: "phone Numbers Verification App",
   },
   {
-    id: 6,
+    id: 7,
     category: "Javascript",
     image: img4,
     link1: "https://github.com/NafilaNafi/traveler-website",
@@ -64,7 +75,7 @@ const portfolios = [
     text: "Book your trip to the popular destination using traveller",
   },
   {
-    id: 7,
+    id: 8,
     category: "Javascript",
     image: css1,
     link1: "https://github.com/NafilaNafi/NewYork-Times-Api",
@@ -73,7 +84,7 @@ const portfolios = [
     text: "Newyork Times API will display all the Top Updated news using API Integration.",
   },
   {
-    id: 8,
+    id: 9,
     category: "Javascript",
     image: css3,
     link1: "https://github.com/NafilaNafi/uceazy",
@@ -82,7 +93,7 @@ const portfolios = [
     text: "Complete website for college admissions guidance using Javascript, Bootstrap, php",
   },
   {
-    id: 9,
+    id: 10,
     category: "Javascript",
     image: css2,
     link1: "https://github.com/NafilaNafi/Todo",
