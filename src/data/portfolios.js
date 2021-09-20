@@ -17,8 +17,8 @@ const portfolios = [
     image: img3,
     link1: "https://github.com/NafilaNafi/reactproductsapp",
     link2: "https://iscriptiotech.netlify.app/",
-    title: "Responsive React Product App",
-    text: "Complete Ecommerce website using ReactJS with modern tools like ReactJs, Bootstrap, Gatsby, Contentful & Netlify, etc.",
+    title: "Responsive Ecommerce Product App",
+    text: "Complete Fullstack Ecommerce Web APP",
   },
   {
     id: 2,
@@ -41,7 +41,11 @@ const portfolios = [
   {
     id: 4,
     category: "Javascript",
+<<<<<<< HEAD
     image: img6,
+=======
+    image: img2,
+>>>>>>> 1ab4745440f69ec8ac9a2d3da36ef998a1bddb8c
     link1: "https://github.com/NafilaNafi/portfolio",
     link2: "https://nafi-codes.netlify.app/",
     title: "Fullstack Portfolio",
