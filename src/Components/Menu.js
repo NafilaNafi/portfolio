@@ -102,8 +102,8 @@ const MenuItemStyled = styled.div`
                 &::before{
                     content: "";
                     position: absolute;
-                    left: 2%;
-                    top: 4%;
+                    left: 0%;
+                    top: 0%;
                     height: 0;
                     width: 0;
                     transition: all .4s ease-in-out;
@@ -141,8 +141,8 @@ const MenuItemStyled = styled.div`
                     }
                 }
                 &::before{
-                    height: calc(100% - 32%) ;
-                    width: calc(100% - 4%);
+                    height: calc(100% - 44%) ;
+                    width: calc(100% - 0%);
                     background-color: white;
                     opacity: 0.9;
                     transform-origin: left;
