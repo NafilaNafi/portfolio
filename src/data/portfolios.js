@@ -7,7 +7,6 @@ import img2 from '../img/portImages/movielist.jpg';
 import img3 from '../img/portImages/maya-3.jpg';
 import img4 from '../img/portImages/traveller.png';
 import img5 from "../img/portImages/verify phone.jpg";
-import img6 from "../img/portImages/portfolio.png";
 
 
 const portfolios = [
@@ -17,8 +16,8 @@ const portfolios = [
     image: img3,
     link1: "https://github.com/NafilaNafi/reactproductsapp",
     link2: "https://iscriptiotech.netlify.app/",
-    title: "Responsive Ecommerce Product App",
-    text: "Complete Fullstack Ecommerce Web APP",
+    title: "ECommerce App",
+    text: "This is real time Fullstack Ecommerce Web Application which developed with list of Categories and a working cart page using Modern Tools. Techstacks used React Js, Javascript, Bootstrap, Gatsby, Contentful, Html5, Css3",
   },
   {
     id: 2,
@@ -27,7 +26,7 @@ const portfolios = [
     link1: "https://github.com/NafilaNafi/Book-search-Application",
     link2: "https://books-search-app.netlify.app/",
     title: "Book Finder Application",
-    text: "Book Search app implementing google book API",
+    text: "Book Search app implementing google book API and Viewer- Techstacks used Javascript, Bootstrap, Google book API, Html5, Css3.",
   },
   {
     id: 3,
@@ -36,74 +35,61 @@ const portfolios = [
     link1: "https://github.com/NafilaNafi/Movie-info-app",
     link2: "https://movies-info-application.netlify.app/",
     title: "Movie info App",
-    text: "List of All Top Movies and informations displays.",
+    text: "This website used to display List of All Top Movies including posters, overviews, Trailer, Rating informations displays - Techstacks used Javascript, Jquery, Bootstrap, MovieDb API, Html5, Css3.",
   },
   {
     id: 4,
-    category: "Javascript",
-<<<<<<< HEAD
-    image: img6,
-=======
-    image: img2,
->>>>>>> 1ab4745440f69ec8ac9a2d3da36ef998a1bddb8c
-    link1: "https://github.com/NafilaNafi/portfolio",
-    link2: "https://nafi-codes.netlify.app/",
-    title: "Fullstack Portfolio",
-    text: "Personal Portfolio.",
-  },
-  {
-    id: 5,
     category: "React JS",
     image: img1,
     link1: "https://github.com/NafilaNafi/Adventure",
     link2: "https://adventure-holidaytrip.netlify.app/",
     title: "Adventure Holiday Travel Application",
-    text: "Find your amazing trip destinations using Adventure App",
+    text: "Find your amazing trip destinations using Adventure App - Techstacks used Javascript, Jquery, Bootstrap, Html5, Css3, SCSS, PHP.",
   },
   {
-    id: 6,
+    id: 5,
     category: "Javascript",
     image: img5,
     link1: "https://github.com/NafilaNafi/phone-verification",
     link2: "https://verify-phone.netlify.app/",
     title: "Verify Phone",
-    text: "phone Numbers Verification App",
+    text: "This App used to display phone Number status and Verify Information - Techstacks used Javascript, Jquery, Bootstrap, Html5, Css3, API.",
   },
   {
-    id: 7,
+    id: 6,
     category: "Javascript",
     image: img4,
     link1: "https://github.com/NafilaNafi/traveler-website",
     link2: "https://traveller-web.netlify.app/",
     title: "Traveller (Journey schedule Application)",
-    text: "Book your trip to the popular destination using traveller",
+    text: "Traveller App is used to Book your trip scheduled to your popular destinations - Techstacks used Javascript, Jquery, Bootstrap, Html5, Css3, SCSS.",
   },
   {
-    id: 8,
+    id: 7,
     category: "Javascript",
     image: css1,
     link1: "https://github.com/NafilaNafi/NewYork-Times-Api",
     link2: "https://newyork-times-api-integration.netlify.app/",
     title: "Newyork Times API",
-    text: "Newyork Times API will display all the Top Updated news using API Integration.",
+    text: "Newyork Times API will display all the Top Updated news using API Integration - Techstacks used Javascript, Bootstrap, Html5, Css3, nytimes API.",
   },
   {
-    id: 9,
+    id: 8,
     category: "Javascript",
     image: css3,
     link1: "https://github.com/NafilaNafi/uceazy",
     link2: "https://uceazy.com/",
     title: "UCEasy Website for College Admissions Guidance",
-    text: "Complete website for college admissions guidance using Javascript, Bootstrap, php",
+    text: "Complete website for college admissions guidance - Techstacks used Javascript, Bootstrap, Html5, Css3, php.",
   },
   {
-    id: 10,
+    id: 9,
     category: "Javascript",
     image: css2,
     link1: "https://github.com/NafilaNafi/Todo",
     link2: "https://friendly-todo.netlify.app/",
     title: "Todo App",
-    text: "A Simple Todo app using Backbone JS",
+    text: "Todo list App is a daily schedule planner, task organizer, create a Reminder & Share notes App Techstacks used Backbone JS, Javascript, Jquery, Bootstrap, Html5, Css3.",
   },
 ];
 
